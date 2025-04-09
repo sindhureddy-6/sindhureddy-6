@@ -60,7 +60,7 @@ React.js + Spring Boot + MySQL
 - 🖥️ [Portfolio Website](https://sindhu-portfolio-flax.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sai-sindhu-5a8b66239/)
 - 🐙 [GitHub](https://github.com/sindhureddy-6)
-- 📧 Email: [21951a05h5@iare.ac.in](mailto:21951a05h5@iare.ac.in)
+- 📧 Email: [sindhureddyvari3@gmail.com](mailto:sindhureddyvari3@gmail.com)
 
 ---
 
