@@ -18,10 +18,6 @@
 - Contributed to agile practices and team collaboration
 ---
 
-
-
----
-
 ## 📊 Coding Profiles
 
 - 🔹 [LeetCode: Sindhu_06](https://leetcode.com/u/Sindhu_06/) — 350+ problems solved, 1300+ rating  
